@@ -40,7 +40,8 @@ private static final long serialVersionUID = 1L;
 		
 		id.setOrder(order);
 	}
-
+    
+	
 	public Product getProduct() {
 		return id.getProduct();
 	}
